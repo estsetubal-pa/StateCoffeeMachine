@@ -6,7 +6,7 @@ O comportamento da máquina altera-se consoante o seu estado interno, evitando l
 
 A **Coffee Machine** altera o seu estado de acordo com o diagrama de estados.
 
-![height:70px](images/umlstateDiagram.jpg)
+![height:70px](images/umlStateDiagram.jpg)
 
 ---
 
