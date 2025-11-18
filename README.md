@@ -4,7 +4,7 @@
 Este projeto demonstra o **State Design Pattern** utilizando uma simulação simples de uma **Coffee Machine** em Java.  
 O comportamento da máquina altera-se consoante o seu estado interno, evitando lógica condicional complexa como múltiplos blocos `if/else` ou `switch`.
 
-A Coffee Machine altera o seu estado de acordo com o diagrama de estados.
+A **Coffee Machine** altera o seu estado de acordo com o diagrama de estados.
 
 ![height:70px](images/umlstateDiagram.jpg)
 
