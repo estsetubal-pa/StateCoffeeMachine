@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1226760e-f724-4d86-95b5-6825bf88945f" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/../StateCoffeeMachine/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StateCoffeeMachine/images/umlStateDiagram2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/BrewingState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/BrewingState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/CoffeeMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/CoffeeMachineState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/CoffeeMachineState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/HasCoinState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/HasCoinState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/NoCoinState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StateCoffeeMachine/src/main/java/com/pa/pattern/state/NoCoinState.java" afterDir="false" />
-    </list>
+    <list default="true" id="1226760e-f724-4d86-95b5-6825bf88945f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../StateCoffeeMachine" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2b2ce1aa-df4e-43b6-a7b1-73ab6104e427" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,7 +40,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1763325125647</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1763493212778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763493212778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
