@@ -1,3 +1,5 @@
+package com.pa.pattern.state;
+
 public class BrewingState implements CoffeeMachineState {
 
     private CoffeeMachine machine;
@@ -19,6 +21,6 @@ public class BrewingState implements CoffeeMachineState {
     @Override
     public void dispenseCoffee() {
         System.out.println("Coffee is ready! Enjoy ☕");
-        machine.setState(machine.getNoCoinState());
+        machine.setState(new NoCoinState(machine));
     }
 }
